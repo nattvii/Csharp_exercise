@@ -1,0 +1,16 @@
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\bin\Debug\net6.0\examp001_console.exe
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\bin\Debug\net6.0\examp001_console.deps.json
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\bin\Debug\net6.0\examp001_console.runtimeconfig.json
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\bin\Debug\net6.0\examp001_console.dll
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\bin\Debug\net6.0\ref\examp001_console.dll
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\bin\Debug\net6.0\examp001_console.pdb
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\obj\Debug\net6.0\examp001_console.GlobalUsings.g.cs
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\obj\Debug\net6.0\examp001_console.csproj.AssemblyReference.cache
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\obj\Debug\net6.0\examp001_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\obj\Debug\net6.0\examp001_console.AssemblyInfoInputs.cache
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\obj\Debug\net6.0\examp001_console.AssemblyInfo.cs
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\obj\Debug\net6.0\examp001_console.csproj.CoreCompileInputs.cache
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\obj\Debug\net6.0\examp001_console.dll
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\obj\Debug\net6.0\ref\examp001_console.dll
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\obj\Debug\net6.0\examp001_console.pdb
+C:\Users\Мамедова Натаван\Desktop\examplesC\examp001_console\obj\Debug\net6.0\examp001_console.genruntimeconfig.cache
